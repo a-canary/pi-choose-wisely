@@ -1,0 +1,15 @@
+{
+  "name": "@aaron/pi-choose-wisely",
+  "version": "1.0.0",
+  "description": "CHOICES.md management — clarify project vision, mission, UX, operations, architectural decisions with cascading impact review. Includes replan skill for gap analysis and PLAN.md generation.",
+  "keywords": ["pi-package"],
+  "author": {
+    "name": "aaron"
+  },
+  "license": "MIT",
+  "type": "module",
+  "pi": {
+    "skills": ["./skills"],
+    "templates": ["./templates"]
+  }
+}
