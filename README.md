@@ -5,7 +5,7 @@ A pi-package for architectural decision management using the CHOICES.md framewor
 ## Installation
 
 ```bash
-pi install git:github.com/aaron/pi-choose-wisely
+pi install git:github.com/a-canary/pi-choose-wisely
 # or
 pi install /path/to/pi-choose-wisely
 ```
